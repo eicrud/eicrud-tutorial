@@ -275,7 +275,7 @@ And let's run our frontend to test our API.
 ```bash
 ts-node front.ts
 ```
-And that's it for the basics! 
+That's all for the basics! 
 
 Take note of all the [CRUD operations](https://docs.eicrud.com/client/operations) available to the client. You can use any of them to query the `'article'` or `'comment'` service.
 
