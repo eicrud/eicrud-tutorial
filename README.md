@@ -279,4 +279,12 @@ And that's it for the basics!
 
 Take note of all the [CRUD operations](https://docs.eicrud.com/client/operations) available to the client. You can use any of them to query the `'article'` or `'comment'` service.
 
+## Going further
+
+Eicrud is in active development and has many features to make your life easier. You can learn all about it in the [documentation](https://docs.eicrud.com). If you find any issue don't hesitate to [create one](https://github.com/eicrud/eicrud/issues) and I'll look into it.
+
+Happy coding!
+
+---
+
 Original article: https://dev.to/acrosett/build-your-crud-backend-in-20min-with-eicrud-mongodb-4n3p
